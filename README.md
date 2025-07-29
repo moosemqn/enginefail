@@ -13,3 +13,5 @@ Using the number 2 next to any command produces dark smoke, a fire and explosion
 Note: Don't fail an engine twice in a row or the plane will probably explode, if you want to fail engines again first repair engines with the command and then fail them again. This should work with all addon planes that have engine bones.
 
 Made for FiveM
+
+Check the current release's notes/changelog to see if new commands or failures have been added
